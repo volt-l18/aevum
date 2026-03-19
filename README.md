@@ -7,6 +7,12 @@
 
 ---
 
+## 📸 Screenshot
+
+![Aevum Screenshot](assets/screenshot.png)
+
+---
+
 ## 🚀 Features
 
 - **Responsive TUI**: Built with `ratatui`, the interface dynamically scales to any terminal size with professional spacing and layout.
