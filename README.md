@@ -56,7 +56,7 @@
 ### Build from source
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/aevum.git
+   git clone https://github.com/volt-l18/aevum.git
    cd aevum
    ```
 2. Build and run:
